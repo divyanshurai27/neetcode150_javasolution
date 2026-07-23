@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0074-search-a-2d-matrix) |
+| [0875-koko-eating-bananas](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0074-search-a-2d-matrix) |
+| [0875-koko-eating-bananas](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
