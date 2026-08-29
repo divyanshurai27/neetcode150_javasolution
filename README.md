@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0074-search-a-2d-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0226-invert-binary-tree) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0226-invert-binary-tree) |
@@ -156,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
