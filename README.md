@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0875-koko-eating-bananas) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
