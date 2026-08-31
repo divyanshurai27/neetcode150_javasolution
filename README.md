@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -169,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
