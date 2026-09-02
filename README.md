@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0875-koko-eating-bananas) |
+| [3875-construct-uniform-parity-array-i](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0002-add-two-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
