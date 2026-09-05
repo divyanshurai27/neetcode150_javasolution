@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0022-generate-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -177,8 +178,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
