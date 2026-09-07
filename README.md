@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0875-koko-eating-bananas) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
