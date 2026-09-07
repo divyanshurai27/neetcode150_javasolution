@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0131-palindrome-partitioning) |
 | [0572-subtree-of-another-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -190,10 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
