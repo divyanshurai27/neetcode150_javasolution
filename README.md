@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0171-excel-sheet-column-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -252,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0695-max-area-of-island) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
