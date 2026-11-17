@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0344-reverse-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0171-excel-sheet-column-number) |
+| [0344-reverse-string](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/divyanshurai27/neetcode150_javasolution/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
